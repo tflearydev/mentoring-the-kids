@@ -1,0 +1,17 @@
+.body {
+    background-image: url('https://marketplace.canva.com/EAF5FxQlSGQ/1/0/1600w/canva-blue-and-white-illustrated-sky-and-airplane-desktop-wallpaper-zYA4XGHAYo0.jpg');
+}
+h1 {
+    color: white;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+}
+
+#hello-btn {
+    border: 2px solid black;
+    width: 100px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0 auto;
+}
