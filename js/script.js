@@ -1,5 +1,5 @@
 var helloBtn = document.getElementById('hello-btn');
-function alertFunction() {
-    alert('Hello world')
+var helloFunction = () => {
+    alert('You have logged in!')
 };
-helloBtn.addEventListener('click', alertFunction);
+helloBtn.addEventListener('click', helloFunction);

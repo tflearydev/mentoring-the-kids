@@ -14,4 +14,5 @@ h1 {
     border-radius: 5px;
     text-align: center;
     margin: 0 auto;
+    cursor: pointer;
 }
